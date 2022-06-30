@@ -8,6 +8,7 @@
   "version": "1.0.0",
   "description": "Habby Tool lib",
   "dependencies": {
+      "com.unity.nuget.newtonsoft-json": "2.0.0"
   },
   "keywords": [
     "HabbyTool",
