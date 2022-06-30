@@ -1,0 +1,3 @@
+<linker>
+    <assembly fullname="HabbyToolLib" preserve="all"/>
+</linker>

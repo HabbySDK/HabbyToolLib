@@ -1,0 +1,16 @@
+{
+  "name": "com.habbysdk.toollib",
+  "displayName": "HabbyToollib",
+  "unity": "2019.4",
+  "_upm": {
+    "changelog": "### Habby Tool\n."
+  },
+  "version": "1.0.0",
+  "description": "Habby Tool lib",
+  "dependencies": {
+  },
+  "keywords": [
+    "HabbyTool",
+    "HabbySDK"
+  ]
+}
