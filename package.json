@@ -5,7 +5,7 @@
   "_upm": {
     "changelog": "### Habby Tool\n."
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Habby Tool lib",
   "dependencies": {
       "com.unity.nuget.newtonsoft-json": "2.0.0"
